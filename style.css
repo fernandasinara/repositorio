@@ -21,9 +21,9 @@ Código style CSS
 
 
 :root{/*seletor raiz para variáveis*/
-    --cor-de-fundo:#56d085;
-    --cor-da-letra:#ffd000;
-    --cor-branco:white;
+    --cor-de-fundo:#df97cd;
+    --cor-da-letra:#000000;
+    --cor-branco:rgb(255, 0, 234);
 }
 body{/*seletor body*/
     background-color:var(--cor-de-fundo)
