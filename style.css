@@ -22,7 +22,7 @@ Código style CSS
 
 :root{/*seletor raiz para variáveis*/
     --cor-de-fundo:#ff62d8;
-    --cor-da-letra:#000000;
+    --cor-da-letra:#ffffff;
     --cor-branco:#ff00ea;
 }
 body{/*seletor body*/
